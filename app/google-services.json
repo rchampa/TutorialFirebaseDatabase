@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "257594161976",
+    "firebase_url": "https://tutorialfbreadwrite.firebaseio.com",
+    "project_id": "tutorialfbreadwrite",
+    "storage_bucket": "tutorialfbreadwrite.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:257594161976:android:0b0e752985a35976",
+        "android_client_info": {
+          "package_name": "ric.es.tutorialfbreadwrite"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "257594161976-st36192kufrgkpjsctkprphs4ngrio6g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ric.es.tutorialfbreadwrite",
+            "certificate_hash": "F5258A80B0D3DC53DF695B2F0E9753F30F938936"
+          }
+        },
+        {
+          "client_id": "257594161976-1irp8tcadsauto6195m5dk85bgkceibj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRAdkad_9FlZoq6Mn5I-3RE_74doH5c8I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "257594161976-1irp8tcadsauto6195m5dk85bgkceibj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
